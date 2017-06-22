@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LoginScene.unity
+    guid: a1c7d76a5792c08468141e44b8696852
+  - enabled: 1
+    path: Assets/SignUpScene.unity
+    guid: 753dac69080304beea174496892efda5
+  - enabled: 1
+    path: Assets/Not Needed/Introduction.unity
+    guid: 94f081a5f013c4d5a892076da7e8e4c1
+  - enabled: 1
+    path: Assets/Not Needed/Play.unity
+    guid: 4667f1f1e1ff04622904755c46a33d79
+  - enabled: 1
+    path: Assets/Not Needed/Points.unity
+    guid: 471f3f8dc703646e386d0bd6c68265f2
+  - enabled: 0
+    path: 
+    guid: 48c21763b158fe34c9e98848da972ae9
+  - enabled: 1
+    path: Assets/Leaderboard.unity
+    guid: d9f9cf576bc354a128f8b3ad1917e8a2
+  - enabled: 0
+    path: 
+    guid: 3149a65e4aad16949bba5d0349118004
+  - enabled: 0
+    path: 
+    guid: 831aef4391c766f458290e302f871bad
+  - enabled: 1
+    path: Assets/Game.unity
+    guid: 683dad8bb76710c4789f6494e416c5af
+  - enabled: 1
+    path: Assets/GamePlay.unity
+    guid: 3504b285d9137fe40b17b5c0d1338fc8
+  - enabled: 1
+    path: Assets/GameOver.unity
+    guid: 01335eff1f54742a08c24146f7cc8d22
+  - enabled: 1
+    path: Assets/PracticeOver.unity
+    guid: 0145e8e63ae27d944b9c0145c98490ee

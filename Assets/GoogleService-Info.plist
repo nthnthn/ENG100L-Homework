@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>79481264901-0is0h50shv6vpbjfq1tkb9bvbilbp7sk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.79481264901-0is0h50shv6vpbjfq1tkb9bvbilbp7sk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8TxaZkOWgCDpvReaAtB2qKeZ-fdlYptw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>79481264901</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ENG100L.HomeworkApp</string>
+	<key>PROJECT_ID</key>
+	<string>homework-app-81383</string>
+	<key>STORAGE_BUCKET</key>
+	<string>homework-app-81383.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:79481264901:ios:a4d15981437703e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://homework-app-81383.firebaseio.com</string>
+</dict>
+</plist>
